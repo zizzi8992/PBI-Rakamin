@@ -1,0 +1,18 @@
+-- Peserta dapat melakukan data ingestion ke dalam
+tableau public
+
+- Pertama buka tableau public
+(https://public.tableau.com/app/discover). 
+Sign in jika sudah punya akun dan sign up jika belum punya akun tableau public.
+- Setelah itu klik create dan pilih web authoring
+- Setelah itu akan di redirect ke halaman baru dan bisa langsung upload 4 data dari Kalbe
+
+-- Peserta dapat membuat dashboard di tableau
+
+- Sebelum membuat dashboard terlebih dahulu membuat worksheet sebanyak 4.
+¦ Worksheet 1 Jumlah qty dari bulan ke bulan
+¦ Worksheet 2 Jumlah total amount dari hari ke hari
+¦ Worksheet 3 Jumlah penjualan (qty) by product
+¦ Worksheet 4 Jumlah penjualan (total amount) by store name
+
+- Setelah itu bisa membuat dashboard dengan menggabungkan 4 worksheet.

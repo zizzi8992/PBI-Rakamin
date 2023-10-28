@@ -1,0 +1,21 @@
+Challenge
+
+- Peserta dapat melakukan data ingestion ke dalam
+dbeaver
+- Pilih connect to database di pojok kiri dan pilih
+postgreSQL
+- Test connection ke postgreSQL
+- Di menu drop down postgreSQL pilih table dan
+klik kanan (import data)
+- Pilih CSV file dan upload 4 file dari Kalbe
+
+-- Peserta dapat melakukan exploratory data analysis di dbeaver
+
+- query 1 : Berapa rata-rata umur customer jika
+dilihat dari marital statusnya -
+- query 2 : Berapa rata-rata umur customer jika
+dilihat dari gender nya -
+- query 3 : Tentukan nama store dengan total
+quantity terbanyak!
+- query 4 : Tentukan nama produk terlaris dengan
+total amount terbanyak!

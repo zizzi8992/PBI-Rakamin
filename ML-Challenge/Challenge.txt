@@ -1,0 +1,7 @@
+? Peserta dapat membuat model prediktif menggunakan regresi dan membuat clustering
+
+? Membaca data csv
+? Melakukan data cleansing
+? Menggabungkan semua data menjadi 1 data
+? Membuat model machine learning regression (time series)
+? Membuat model machine learning clustering
